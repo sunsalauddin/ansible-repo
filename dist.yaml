@@ -1,0 +1,11 @@
+- Dist: "nizamabad"
+  mondal: "yerrgatlla"
+  village: "battapur"
+
+  # village data
+
+  battapur:
+  - sarpanch: "venu"
+    upasarpanch: "daya"
+    wardnumber09: "winner daya"
+    wardnumber08: "ramulu"
